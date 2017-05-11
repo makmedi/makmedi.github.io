@@ -1,0 +1,14 @@
+<div class="media">
+  <div class="media-left media-middle">
+    <a href="{{ site.url }}/{{ include.src }}">
+      <img class="media-object" src="{{ site.url }}/{{ include.src }}" alt="{{ include.label }}">
+    </a>
+    <div class='text-center'>
+      <small><em>{{ include.label | markdownify }}</em></small>
+    </div>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">{{ include.header }}</h4>
+    {{ include.text | markdownify }}
+  </div>
+</div>
