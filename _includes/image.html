@@ -1,13 +1,13 @@
-<div class="media">
-  <div class="media-left media-middle">
+<div class="row">
+  <div class="col-md-4 col-sm-12">
     <a href="{{ site.url }}/{{ include.src }}">
-      <img class="media-object" src="{{ site.url }}/{{ include.src }}" alt="{{ include.label }}">
+        <img class="media-object" src="{{ site.url }}/{{ include.src }}" alt="{{ include.label }}">
     </a>
     <div class='text-center'>
-      <small><em>{{ include.label | markdownify }}</em></small>
+       <small><em>{{ include.label | markdownify }}</em></small>
     </div>
   </div>
-  <div class="media-body">
+  <div class="col-md-8 col-sm-12">
     <h4 class="media-heading">{{ include.header }}</h4>
     {{ include.text | markdownify }}
   </div>
