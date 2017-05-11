@@ -5,7 +5,7 @@ permalink: /direction/
 order: 2
 ---
 
-{% include image.html src='assets/director.jpg'
+{% include image.html src='assets/images/director.jpg'
 	label='Маклакова Ирина Александровна'
 	header='Организатор компании – Маклакова Ирина Александровна, кандидат химических наук.' 
 	text='Генеральный директор – Маклаков Сергей Сергеевич, к.ф.-м.н.
@@ -20,15 +20,4 @@ order: 2
 Соавтор многочисленных российских и зарубежных патентов. По технологиям, разработанным при непосредственном участии Маклаковой И.А., оформлено 2 лицензионных соглашения с зарубежными компаниями, а также одно соглашение с отечественной компанией.
 
 В 2004 г. организовала ООО «МакМеди».'
-%} 
-
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
- -->
+%}

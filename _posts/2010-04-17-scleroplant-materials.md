@@ -85,7 +85,7 @@ order: 8
 '
 %}
 
-{% include image.html src='assets/sclem2-nasechki.jpg'
+{% include image.html src='assets/images/sclem2-nasechki.jpg'
   label='Склероплант М - насечки'
   text='
 Срок хранения 2 года, при 4-12°С в сухом, защищенном от света месте.
@@ -102,7 +102,7 @@ order: 8
 '
 %}
 
-{% include image.html src='assets/sclem-c4.jpg'
+{% include image.html src='assets/images/sclem-c4.jpg'
   label='Склероплант М - С4'
   text='
 ##### Показания к применению Склеропланта и Склеропланта М

@@ -8,7 +8,7 @@ order: 7
 
 **не имеет аналогов**
 
-{% include image.html src='assets/sclem1.jpg'
+{% include image.html src='assets/images/sclem1.jpg'
   label='Склероплант М - упаковка'
   header='Новый материал для склеропластики СКЛЕРОПЛАНТ М'
   text='Изготавливается по инновационной технологии
@@ -24,7 +24,7 @@ order: 7
 Уникальные свойства материала приводят к сокращению сроков приживления и формированию прочного комплекса склера-имплантат.'
 %}
 
-{% include image.html src='assets/sclem2-nasechki.jpg'
+{% include image.html src='assets/images/sclem2-nasechki.jpg'
   label='Склероплант М - насечки'
   text='
 **Склероплант М** выпускается в 5 вариантах исполнения.
@@ -35,7 +35,7 @@ order: 7
 | 4 пластины (2 x 1) см      | 4 пластины (2 x 1) см с косыми насечками                               | 1 пластина (8 x 1) см             | 1 пластина (8 x 1) см *с двумя боковыми отверстиями*                    | 2 диска диаметром 13 мм     |'
 %}
 
-{% include image.html src='assets/sclem-c4.jpg'
+{% include image.html src='assets/images/sclem-c4.jpg'
   label='Склероплант М - С4'
   text='Не содержит консервантов.
 
