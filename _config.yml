@@ -22,6 +22,7 @@ footer-text: Комфорт хирургу - увереность пациент
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://makmedi.ru" # the base hostname & protocol for your site, e.g. http://example.com
 
+google_analytics: UA-100978778-1
 
 include: ["_pages"]
 
